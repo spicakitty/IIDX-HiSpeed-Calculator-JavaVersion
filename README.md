@@ -5,7 +5,7 @@ Development was done in Visual Studio Code.
 
 The Python version of this tool can be found here &#8594; [IIDX-HiSpeed-Calculator-PythonVersion](https://github.com/spicakitty/IIDX-HiSpeed-Calculator-PythonVersion)
 
-The HTML version of this tool can be found here &#8594; [IIDX-HiSpeed-Calculator-HTMLVersion](https://github.com/spicakitty/IIDX-HiSpeed-Calculator-PythonVersion)
+The HTML version of this tool can be found here &#8594; [IIDX-HiSpeed-Calculator-HTMLVersion](https://github.com/spicakitty/IIDX-HiSpeed-Calculator-HTMLVersion)
 
 ## What are these values
 - **GN** (Green Number) is the amount of milliseconds that a note stays on the screen for.
